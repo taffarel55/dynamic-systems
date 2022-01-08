@@ -1,0 +1,1 @@
+plot(out.t, out.y)
